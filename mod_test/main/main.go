@@ -1,6 +1,6 @@
 package main
 import(
-    "mod_test/pkg1"
+    "github.com/2haodb/gomng/mod_test/pkg1"
 )
 
 func main(){
