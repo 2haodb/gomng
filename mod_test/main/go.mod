@@ -1,7 +1,5 @@
-module mod_test/main
+module github.com/2haodb/gomng/mod_test/main
 
-require mod_test/pkg1 v1.0.1
-
-replace mod_test/pkg1 => ../pkg1
+require github.com/2haodb/gomng/mod_test/pkg1 v1.0.1
 
 go 1.12
